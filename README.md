@@ -1,9 +1,6 @@
-# op-bot
+# OP BOT
 
 This script is a part of Paid Multicharacter Script --> <https://otherplanet.dev/product/multicharacter>
-
-## Supported frameworks
-- Standalone
 
 ## ✨ Features
 - The bot provides a powerful server-side export getPremiumRanks, allowing you to fetch a player’s Discord ranks directly from your server.
