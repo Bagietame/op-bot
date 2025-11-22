@@ -1,0 +1,14 @@
+{
+  "name": "op-multicharacter",
+  "version": "1.0.0",
+  "description": "Multicharacter character slots based on Discord Ranks!",
+  "main": "/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bagieta",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.17.1"
+  }
+}
