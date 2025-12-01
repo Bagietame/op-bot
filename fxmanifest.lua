@@ -8,4 +8,5 @@ game 'gta5'
 
 server_scripts {
 	'index.js',
+	'config.js',
 }
